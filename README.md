@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img width="370" height="494" alt="image" src="https://github.com/user-attachments/assets/a3f44bb4-1346-4d04-b127-9d80335ea42d" />
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/a3f44bb4-1346-4d04-b127-9d80335ea42d" />
 
 <p align="center">
 "Make me normal, next time, God."
