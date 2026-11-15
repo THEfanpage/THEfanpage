@@ -9,6 +9,10 @@
 <p align="center">
 "Make me normal, next time, God."
 
+<p align="center">
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/c6e4439c-4553-4ab5-8ecb-08806b324945" />
+
+
 
 <p align="center">
 <img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/48f1890d-1651-468a-8dfa-f56fd233ac84" />
